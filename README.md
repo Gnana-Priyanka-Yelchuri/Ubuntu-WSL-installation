@@ -1,2 +1,3 @@
-# Ubuntu-WSL-installation-
-Step-by-step guide for installing Ubuntu on Windows 11 using WSL and resolving common setup errors.
+# Ubuntu WSL Installation Guide
+
+This repository documents my experience installing Ubuntu on Windows 11 using WSL and troubleshooting common setup issues.
