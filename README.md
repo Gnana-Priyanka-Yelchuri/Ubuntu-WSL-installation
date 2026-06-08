@@ -58,7 +58,6 @@ After completing the setup, Ubuntu started successfully.
 
 Ubuntu WSL was installed successfully and is ready for Linux practice.
 
-
-Key Learning
+<h3> Key Learning</h3>
 
 Seeing "Virtualization: Enabled" in Task Manager does not always mean all WSL requirements are enabled. Additional WSL components may still need to be configured in Windows.
