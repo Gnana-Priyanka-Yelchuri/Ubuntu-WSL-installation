@@ -54,7 +54,7 @@ Enter new UNIX username:
 
 After completing the setup, Ubuntu started successfully.
 
-Result
+<h3>Result</h3>
 
 Ubuntu WSL was installed successfully and is ready for Linux practice.
 
