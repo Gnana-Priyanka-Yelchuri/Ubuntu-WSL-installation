@@ -1,4 +1,4 @@
-Ubuntu WSL Installation Guide
+<h2>Ubuntu WSL Installation Guide</h2>
 Objective:
 Install Ubuntu on Windows 11 using WSL (Windows Subsystem for Linux).
 Environment :
